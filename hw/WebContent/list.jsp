@@ -11,7 +11,7 @@
 </head>
 <body>
 <%
-//ffff
+//ffffggggg
 	empDAO dao=empDAO.getInstance();
 	List<empDTO> list=dao.getList();
 %>
